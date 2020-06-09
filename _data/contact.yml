@@ -20,22 +20,22 @@ leaflet_map_1:
   leaflet_markers:
     - latitude: 39.621049
       longitude: 19.923906
-      popupContent: Ιόνιος Ακαδημία - NOC
+      popupContent: Ιόνιος Ακαδημία - Τμήμα Δικτύων & Τηλεπικοινωνιών
     - latitude: 39.625709
       longitude: 19.924304
-      popupContent: Ιόνιο Πανεπιστήμιο, Ανάκτορα, Γραφεία Καθηγητών
+      popupContent: Γραφεία Καθηγητών
     - latitude: 39.623434
       longitude: 19.915203
-      popupContent: Ιόνιο Πανεπιστήμιο, Τμήμα Ιστορίας, Αμφιθέατρα Διδασκαλίας
+      popupContent: Αμφιθέατρα Διδασκαλίας - Τμήμα Ιστορίας
     - latitude: 39.620857
       longitude: 19.915050
-      popupContent: Ιόνιο Πανεπιστήμιο, Τμήμα Πληροφορικής, Κτίριο Γαληνός
+      popupContent: Κτήριο Γαληνός
     - latitude: 39.620833
       longitude: 19.914585
-      popupContent: Ιόνιο Πανεπιστήμιο, Τμήμα Πληροφορικής, Κτίριο Γραμματειών
+      popupContent: Κτήριο Γραμματειών
     - latitude: 39.620603
       longitude: 19.914945
-      popupContent: Ιόνιο Πανεπιστήμιο, Τμήμα Πληροφορικής, Κτίριο Αρεταίος
+      popupContent: Κτήριο Αρεταίος
     - latitude: 39.620679
       longitude: 19.915451
       popupContent: Φοιτητικό Εστιατόριο
