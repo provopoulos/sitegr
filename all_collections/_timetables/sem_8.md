@@ -5,7 +5,7 @@ semester: '8'
 timetable:
   - day: "Δευτέρα"
     time: 11
-    course: data-mining-and-data-warehousing 
+    course: data-mining-and-data-warehousing
     author: kerman
     location: "Εξ αποστάσεως"
   - day: "Δευτέρα"
@@ -25,46 +25,61 @@ timetable:
     location: "Εξ αποστάσεως"
   - day: "Δευτέρα"
     time: 19
-    course: data-structures
-    author: "Β. Καρυώτης"
-    location: "Αμφιθέατρο 1"
+    course: management-of-it-projects
+    author: "Κ. Σκιαδόπουλος"
+    location: "Εξ αποστάσεως"
 
   - day: "Τρίτη"
-    time: 11
-    course: discrete-mathematics
-    author: vlamos
-    location: "Αμφιθέατρο 1"
+    time: 9
+    course: information-systems-security-management
+    author: atsohou
+    location: "Εξ αποστάσεως"
   - day: "Τρίτη"
-    time: 13
-    course: computer-programming
-    author: andronikos
-    location: "Εργαστήριο Γαληνός"
+    time: 11
+    course: introduction_to_e-government
+    author: pkour
+    location: "Εξ αποστάσεως"
   - day: "Τρίτη"
     time: 15
-    course: computer-programming
+    course: speech-processing
+    author: karydis
+    location: "Εξ αποστάσεως"
+  - day: "Τρίτη"
+    time: 17
+    course: parallel-programming
     author: mistral
-    location: "Εργαστήριο Γαληνός"
+    location: "Εξ αποστάσεως"
+  - day: "Τρίτη"
+    time: 19
+    course: compilers
+    author: mistral
+    location: "Εξ αποστάσεως"
 
   - day: "Τετάρτη"
     time: 9
-    course: discrete-mathematics
-    author: vlamos
-    location: "Αμφιθέατρο 1"
+    course: strategic-management-of-information-systems
+    author: pateli
+    location: "Εξ αποστάσεως"
   - day: "Τετάρτη"
     time: 11
-    course: theory-of-propability
-    author: alex
-    location: "Εργαστήριο Γαληνός"
-  - day: "Τετάρτη"
-    time: 13
-    course: computer-programming
-    author: andronikos
-    location: "Εργαστήριο Γαληνός"
+    course: smart-technologies-and-applications
+    author: hristope
+    location: "Εξ αποστάσεως"
   - day: "Τετάρτη"
     time: 15
-    course: ba
+    course: informatics-in-education
     author: doukakis
-    location: "Αμφιθέατρο 2"
+    location: "Εξ αποστάσεως"
+  - day: "Τετάρτη"
+    time: 17
+    course: data-mining-and-data-warehousing
+    author: exarchos
+    location: "Εξ αποστάσεως"
+  - day: "Τετάρτη"
+    time: 19
+    course: smart-technologies-and-applications
+    author: "Κ. Βόγκλης"
+    location: "Εξ αποστάσεως"
 
   - day: "Πέμπτη"
     time: 13
@@ -86,7 +101,7 @@ timetable:
     course: computer-programming
     author: andronikos
     location: "Αμφηθέατρο 1"
-  
+
   - day: "Παρασκευή"
     time: 11
     course: theory-of-propability
@@ -108,4 +123,3 @@ timetable:
     author: "Α. Σωτηροπούλου"
     location: "Εργαστήριο Γαληνός"
 ---
-
