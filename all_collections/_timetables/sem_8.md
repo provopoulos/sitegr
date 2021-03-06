@@ -67,7 +67,7 @@ timetable:
     location: "Εξ αποστάσεως"
   - day: "Τετάρτη"
     time: 15
-    course: informatics-in-education
+    course: "Ειδικά Θέματα Διδακτικής της Πληροφορικής"
     author: doukakis
     location: "Εξ αποστάσεως"
   - day: "Τετάρτη"
@@ -82,44 +82,54 @@ timetable:
     location: "Εξ αποστάσεως"
 
   - day: "Πέμπτη"
-    time: 13
-    course: discrete-mathematics
-    author: "Γ. Κατωμέρης"
-    location: "Εργαστήριο Γαληνός"
+    time: 9
+    course: information-systems-security-management
+    author: atsohou
+    location: "Εξ αποστάσεως"
+  - day: "Πέμπτη"
+    time: 11
+    course: strategic-management-of-information-systems
+    author: pateli
+    location: "Εξ αποστάσεως"
   - day: "Πέμπτη"
     time: 15
-    course: ba
-    author: doukakis
-    location: "Αμφιθέατρο 2"
+    course: speech-processing
+    author: karydis
+    location: "Εξ αποστάσεως"
   - day: "Πέμπτη"
     time: 17
-    course: computer-programming
-    author: andronikos
-    location: "Εργαστήριο Γαληνός"
+    course: "Ειδικά Θέματα Διδακτικής της Πληροφορικής"
+    author: doukakis
+    location: "Εξ αποστάσεως"
   - day: "Πέμπτη"
     time: 19
-    course: computer-programming
-    author: andronikos
-    location: "Αμφηθέατρο 1"
+    course: management-of-it-projects
+    author: "Κ. Σκιαδόπουλος"
+    location: "Εξ αποστάσεως"
 
   - day: "Παρασκευή"
-    time: 11
-    course: theory-of-propability
-    author: avlon
-    location: "Αμφιθέατρο 2"
+    time: 9
+    course: smart-technologies-and-applications
+    author: riggas
+    location: "Εξ αποστάσεως"
   - day: "Παρασκευή"
-    time: 13
-    course: discrete-mathematics
-    author: "Γ. Κατωμέρης"
-    location: "Εργαστήριο Γαληνός"
+    time: 11
+    course: semantic-and-social-web
+    author: fmylonas
+    location: "Εξ αποστάσεως"
   - day: "Παρασκευή"
     time: 15
-    course: "Αγγλικά ΙΙ"
-    author: "Σ. Κοζομπόλης"
-    location: "Αίθουσα 1"
+    course: compilers
+    author: mistral
+    location: "Εξ αποστάσεως"
   - day: "Παρασκευή"
     time: 17
-    course: data-structures
-    author: "Α. Σωτηροπούλου"
-    location: "Εργαστήριο Γαληνός"
+    course: parallel-programming
+    author: mistral
+    location: "Εξ αποστάσεως"
+  - day: "Παρασκευή"
+    time: 19
+    course: smart-technologies-and-applications
+    author: "Κ. Βόγκλης"
+    location: "Εξ αποστάσεως"
 ---
